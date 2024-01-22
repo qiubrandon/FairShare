@@ -1,6 +1,6 @@
 idk how to rename the file so read this:
 
-Bill Manager is an app designed to help foodies and frequent restuarant go-ers to
+FairShare is an app designed to help foodies and frequent restuarant go-ers to
 split bills effectively, efficiently, and hassle-free.
 
 Technologies:
