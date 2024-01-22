@@ -23,4 +23,5 @@ Goals:
         - Can select individual dishes
         - Dishes can be shared by all
     - Send out a payment request to everybody with their owed amounts
-!- Take a picture and using AI, create profiles using facial recognition
+
+!-Take a picture and using AI, create profiles using facial recognition
